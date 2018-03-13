@@ -16,13 +16,11 @@ if (index === code.length){
   index = 0;
 }
 
-else {
+}else {
   index = 0;
 }
 
-}
-
-);
+});
 
 
 }
